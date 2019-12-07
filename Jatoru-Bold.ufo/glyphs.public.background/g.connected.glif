@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.connected" format="2">
+	<advance width="718"/>
+	<outline>
+		<contour>
+			<point x="496" y="275" type="move" smooth="yes"/>
+			<point x="555" y="434"/>
+			<point x="632" y="555"/>
+			<point x="862" y="483" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>
