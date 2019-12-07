@@ -8,5 +8,4 @@ feature liga {
     sub g' r.swash by g.connected;
     sub g.alt' r by g.alt.connected;
     sub g.alt' r.swash by g.alt.connected;
-
 } liga;
