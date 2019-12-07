@@ -1,0 +1,12 @@
+feature cswh {
+    sub r' space by r.swash;
+    sub g.connected r' space by r.swash;
+} cswh;
+
+feature liga {
+    sub g' r by g.connected;
+    sub g' r.swash by g.connected;
+    sub g.alt' r by g.alt.connected;
+    sub g.alt' r.swash by g.alt.connected;
+
+} liga;

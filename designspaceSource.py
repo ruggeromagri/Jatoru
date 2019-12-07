@@ -14,9 +14,8 @@ weightAxis.labelNames[u'it'] = u'peso'
 document.addAxis(weightAxis)
 
 styles = {
-    'light': [50, 'path'],
-    'black': [170, 'path'],
-    'medium': [120, 'desktop/file.ufo']
+    'light': [50, 'Jatoru-Light.ufo'],
+    'black': [170, 'Jatoru-Bold.ufo']
     }
 
 
@@ -39,6 +38,5 @@ rule.name = 'substitution.g'
 rule.conditionSets.append([dict(name='weight', minimum=100, maximum=170)])
 rule.subs.append(('g', 'g.alt'))
 document.addRule(rule)
-
 
 document.write('Jatoru.designspace')

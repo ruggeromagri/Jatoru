@@ -16,7 +16,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="path" name="light" familyname="Jatoru" stylename="light">
+    <source filename="Jatoru-Light.ufo" name="light" familyname="Jatoru" stylename="light">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -25,14 +25,9 @@
         <dimension name="weight" xvalue="50"/>
       </location>
     </source>
-    <source filename="path" name="black" familyname="Jatoru" stylename="black">
+    <source filename="Jatoru-Bold.ufo" name="black" familyname="Jatoru" stylename="black">
       <location>
         <dimension name="weight" xvalue="170"/>
-      </location>
-    </source>
-    <source filename="desktop/file.ufo" name="medium" familyname="Jatoru" stylename="medium">
-      <location>
-        <dimension name="weight" xvalue="120"/>
       </location>
     </source>
   </sources>

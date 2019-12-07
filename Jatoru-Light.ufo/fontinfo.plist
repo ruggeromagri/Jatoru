@@ -10,15 +10,25 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>New Font</string>
+	<key>guidelines</key>
+	<array/>
 	<key>openTypeHeadCreated</key>
 	<string>2019/12/07 17:50:32</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>New Font</string>
 	<key>postscriptBlueValues</key>
 	<array/>
+	<key>postscriptFamilyBlues</key>
+	<array/>
+	<key>postscriptFamilyOtherBlues</key>
+	<array/>
 	<key>postscriptFontName</key>
 	<string>New Font-Regular</string>
 	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapH</key>
+	<array/>
+	<key>postscriptStemSnapV</key>
 	<array/>
 	<key>styleName</key>
 	<string>Regular</string>

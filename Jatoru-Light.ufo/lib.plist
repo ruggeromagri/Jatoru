@@ -2,6 +2,57 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.defcon.sortDescriptor</key>
+	<array>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>alphabetical</string>
+		</dict>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>category</string>
+		</dict>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>unicode</string>
+		</dict>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>script</string>
+		</dict>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>suffix</string>
+		</dict>
+		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
+			<key>ascending</key>
+			<true/>
+			<key>type</key>
+			<string>decompositionBase</string>
+		</dict>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.Axes</key>
@@ -21,6 +72,8 @@
 	<true/>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.segmentType</key>
+	<string>curve</string>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -74,8 +127,8 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>g.connected.alt</string>
-		<string>o.black</string>
+		<string>g.alt</string>
+		<string>g.alt.connected</string>
 		<string>g.connected</string>
 		<string>r.swash</string>
 		<string>zero</string>
@@ -88,11 +141,12 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>period</string>
-		<string>comma</string>
 		<string>hyphen</string>
+		<string>comma</string>
+		<string>period</string>
 		<string>space</string>
 		<string>newGlyph</string>
+		<string>o.black</string>
 	</array>
 </dict>
 </plist>
