@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="50" maximum="170" default="50">
+      <labelname xml:lang="en">weight</labelname>
+      <labelname xml:lang="fr">poids</labelname>
+      <labelname xml:lang="it">peso</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="substitution.g">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="170"/>
+      </conditionset>
+      <sub name="g" with="g.alt"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="path" name="light" familyname="Jatoru" stylename="light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="path" name="black" familyname="Jatoru" stylename="black">
+      <location>
+        <dimension name="weight" xvalue="170"/>
+      </location>
+    </source>
+    <source filename="desktop/file.ufo" name="medium" familyname="Jatoru" stylename="medium">
+      <location>
+        <dimension name="weight" xvalue="120"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
