@@ -1,6 +1,7 @@
 from fontTools.designspaceLib import *
 
 document = DesignSpaceDocument()
+familyName = 'Jatoru'
 
 weightAxis = AxisDescriptor()
 weightAxis.maximum = 170
@@ -23,7 +24,7 @@ for i, (style, (pos, path)) in enumerate(styles.items()):
     source = SourceDescriptor()
     source.path = path
     source.name = style
-    source.familyName = "Jatoru"
+    source.familyName = familyName
     source.styleName = style
     source.location = dict(weight=pos)
     if i == 0:
@@ -32,6 +33,22 @@ for i, (style, (pos, path)) in enumerate(styles.items()):
         source.copyGroups = True
         source.copyFeatures = True
     document.addSource(source)
+
+instances = {
+    'Light': 50,
+    'Regular': 80,
+    'Medium': 120,
+    'Bold': 170
+    }
+
+for name, pos in instances.items():
+    instance = InstanceDescriptor()
+    # instance.path = ?
+    instance.familyName = familyName
+    instance.styleName = name
+    instance.styleMapStyleName = name # ?
+    instance.location = {'weight': pos}
+    document.addInstance(instance)
 
 rule = RuleDescriptor()
 rule.name = 'substitution.g'

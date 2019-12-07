@@ -31,4 +31,34 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance familyname="Jatoru" stylename="Light" stylemapstylename="Light">
+      <location>
+        <dimension name="weight" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Jatoru" stylename="Regular" stylemapstylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="80"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Jatoru" stylename="Medium" stylemapstylename="Medium">
+      <location>
+        <dimension name="weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Jatoru" stylename="Bold" stylemapstylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="170"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
 </designspace>
