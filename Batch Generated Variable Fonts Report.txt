@@ -1,0 +1,185 @@
+Batch Generated Variable Fonts:
+*******************************
+
+source: /Users/Ruma/Desktop/jatoru/Jatoru_VFExport.designspace
+path: /Users/Ruma/Desktop/jatoru/Jatoru_VFExport.ttf
+    Making master glyphs compatible
+    '''''''''''''''''''''''''''''''
+        Adding missing glyph 'seven' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'seven' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'w' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'w' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'two' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'two' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'five' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'five' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'P' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'P' in master 'New Font Regular (public.default)'
+        Adding missing glyph 't' in master 'New Font Regular (public.default)'
+        Adding missing glyph 't' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'hyphen' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'hyphen' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'K' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'K' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'S' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'S' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'six' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'six' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'x' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'x' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'u' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'u' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'p' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'p' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'h' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'h' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'E' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'E' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'l' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'l' in master 'New Font Regular (public.default)'
+        Adding missing offcurves in contour 0 for glyph 'g.connected.alt' in master 'New Font Regular'
+        Adding missing offcurves in contour 0 for glyph 'g.connected.alt' in master 'New Font Regular'
+        Adding missing glyph 'X' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'X' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'one' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'one' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'A' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'A' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'j' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'j' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'N' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'N' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'four' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'four' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'B' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'B' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'G' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'G' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'O' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'O' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'J' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'J' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'V' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'V' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'eight' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'eight' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'i' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'i' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'R' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'R' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'U' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'U' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Z' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Z' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'y' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'y' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'q' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'q' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Q' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Q' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Y' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'Y' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'c' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'c' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'm' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'm' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'a' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'a' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'f' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'f' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'k' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'k' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'o.black' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'o.black' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'I' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'I' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'L' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'L' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'v' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'v' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'z' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'z' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'H' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'H' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'C' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'C' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'three' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'three' in master 'New Font Regular (public.default)'
+        Adding missing glyph 's' in master 'New Font Regular (public.default)'
+        Adding missing glyph 's' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'newGlyph' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'newGlyph' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'F' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'F' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'D' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'D' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'T' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'T' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'd' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'd' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'n' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'n' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'period' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'period' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'comma' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'comma' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'nine' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'nine' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'M' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'M' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'e' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'e' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'b' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'b' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'W' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'W' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'zero' in master 'New Font Regular (public.default)'
+        Adding missing glyph 'zero' in master 'New Font Regular (public.default)'
+
+    Decompose Mixed Glyphs
+    ''''''''''''''''''''''
+
+    Making master kerning compatible
+    ''''''''''''''''''''''''''''''''
+
+
+    Generate TTF
+    ''''''''''''
+
+        Generate New Font Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Error] Could not find FontName (a.k.a. PostScript name) in FontDict of file '/privatedummyCompile.otf'
+            None
+            
+            Traceback (most recent call last):
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 318, in embedded_makeotf
+              File "makeotf.py", line 1556, in getOptions
+              File "makeotf.py", line 1572, in checkInputFile
+              File "makeotf.py", line 2013, in convertFontIfNeeded
+              File "makeotf.py", line 2044, in get_font_psname
+            externalFrameworks.fdkTools.makeotf.MakeOTFShellError
+            
+            --------------------
+
+        Generate New Font Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Error] Could not find FontName (a.k.a. PostScript name) in FontDict of file '/privatedummyCompile.otf'
+            None
+            
+            Traceback (most recent call last):
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 318, in embedded_makeotf
+              File "makeotf.py", line 1556, in getOptions
+              File "makeotf.py", line 1572, in checkInputFile
+              File "makeotf.py", line 2013, in convertFontIfNeeded
+              File "makeotf.py", line 2044, in get_font_psname
+            externalFrameworks.fdkTools.makeotf.MakeOTFShellError
+            
+            --------------------

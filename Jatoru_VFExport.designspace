@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="50" maximum="170" default="50">
+      <labelname xml:lang="en">weight</labelname>
+      <labelname xml:lang="fr">poids</labelname>
+      <labelname xml:lang="it">peso</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="substitution.g">
+      <conditionset>
+        <condition name="weight" minimum="50" maximum="170"/>
+      </conditionset>
+      <sub name="g" with="g.alt"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Jatoru-Bold.ufo" familyname="New Font" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="170"/>
+      </location>
+    </source>
+    <source filename="Jatoru-Light.ufo" familyname="New Font" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="50"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>
