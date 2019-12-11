@@ -25,6 +25,8 @@ To specify which letter we want to be replaced inside the sequence with use the 
 sub @lowercase r’ space by r.swash;
 ```
 
+# Feel free to try!
+
 The sequence of things before the glyph we want to replace is called “backtrack”, everything after is called “lookahead”. Both of them are optional: either, or neither, can appear. If a sequence is present, it can contain one or more things.
 
 
